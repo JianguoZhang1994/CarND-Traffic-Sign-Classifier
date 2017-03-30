@@ -1,5 +1,5 @@
 ## Project: Build a Traffic Sign Recognition Program
-
+**Jianguo Zhang, March 29, 2017**
 
 Overview
 ---
