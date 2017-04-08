@@ -127,11 +127,17 @@ Here are seven German traffic signs that I found on the web:
 The original size are :
 
 image 1 original shape:  (434, 468, 3)
+
 image 2 original shape:  (412, 468, 3)
+
 image 3 original shape:  (414, 413, 3)
+
 image 4 original shape:  (396, 468, 3)
+
 image 5 original shape:  (208, 235, 3)
+
 image 6 original shape:  (319, 327, 3)
+
 image 7 original shape:  (344, 353, 3)
 
 Due to original images are not suitable for the model, I resize each image to 32x32x3. Some original images like 'Road work' image and 'Wild animals crossing' image have backgound which can affect classification. Besides, some images like 'Road work' after resized the core area of new image may become unclear. Which may cause the new image be miscalssified as some other similar signs like 'Vehicles over 3.5 metric tons prohibited'.
