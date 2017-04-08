@@ -66,7 +66,7 @@ Here is an exploratory visualization of each sign and its number in the data set
 
 As a first step, I normalize images for training dataset, validation dataset and test dataset, the scale is 0-1. Where I did not grayscale the image and keep 3 channels for each image. 
 
-Actually at the beggining, I set the scale as -1 to 1, but It makes my accuracy hard to beyonf 93%, I don't know why. And grayscale can improve my accuracy by 2%, but when I deal with the new images downloaded from Internet, I know how to convert the image with size like 400*300*3 to 32*32, I really don't know how to get 32*32*1. So finally I did not use grayscale. 
+Actually at the beggining, I set the scale as -1 to 1, but It makes my accuracy hard to beyonf 93%, I don't know why. Besides, grayscale can improve my accuracy by 2%, but when I deal with the new images downloaded from Internet, I know how to convert the image with size like 400x300x3 to 32x32, I really don't know how to get 32x32x1. So finally I did not use grayscale. 
 
  
 
