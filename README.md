@@ -50,7 +50,7 @@ The goals / steps of this project are the following:
 
 [image1]:  Number_of_each_sign.png
 [image2]:  7_images_original.png
-[image3]:  5_images_re.png
+[image3]:  show_of_each_class.png
 [image4]:  straight_or_right.jpg
 [image5]:  ahead_only.jpg
 [image6]:  wild_animal_crossing.jpg
@@ -74,7 +74,13 @@ signs data set:
 #### 2. Include an exploratory visualization of the dataset and identify where the code is in your code file.
 
 
-Here is an exploratory visualization of the data set. It is a chart showing the number of each sign in training dataset
+Here is an exploratory visualization of the data set. 
+
+This is the image show of each class
+
+![alt text][image3]
+
+This is a chart showing the number of each sign in training dataset
 
 ![alt text][image1]
 
