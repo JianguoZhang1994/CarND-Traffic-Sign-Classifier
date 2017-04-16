@@ -49,7 +49,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]:  Number_of_each_sign.png
-[image2]:  5_images_or.png
+[image2]:  7_images_original.png
 [image3]:  5_images_re.png
 [image4]:  straight_or_right.jpg
 [image5]:  ahead_only.jpg
