@@ -31,7 +31,9 @@ The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](htt
 2. Clone the project, which contains the Ipython notebook and the writeup template.
 ```sh
 git clone https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project
+
 cd CarND-Traffic-Sign-Classifier-Project
+
 jupyter notebook Traffic_Sign_Classifier.ipynb
 ```
 
@@ -76,7 +78,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. 
 
-This is the image show of each class
+This is a image show of each class
 
 ![alt text][image3]
 
